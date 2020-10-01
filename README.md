@@ -11,4 +11,4 @@ Link: [Horiseon](https://patrickleihong.github.io/Challenge-1/)
 
 Website Image: 
 
-![Website View](/assets/images/01-html-css-git-homework-demo.png)
+![Website View](docs/assets/images/01-html-css-git-homework-demo.png)
